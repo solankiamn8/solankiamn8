@@ -65,16 +65,6 @@ Here are some of the technologies I've been working with:
 
 ---
 
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=solankiamn8&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Aman's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solankiamn8&layout=compact&theme=tokyonight" alt="Aman's Top Languages" />
-</p>
-
----
-
 ### 📬 Connect With Me
 
 <p align="left">
